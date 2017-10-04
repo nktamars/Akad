@@ -77,7 +77,8 @@ h1, h2, h3, h4, h5, h6 {
       width: 23px;
       margin-top: 6px; }
   .toggle-menu:hover .toggle-menu__bar {
-    width: 100%; }
+    width: 100%;
+    background: #7beec7; }
 
 .content {
   padding-top: 80px; }
